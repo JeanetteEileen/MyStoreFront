@@ -1,0 +1,204 @@
+#topNavmenu{
+    background-color: rgb(245, 189, 245);
+}
+.yarnneedles{
+    height:52px;
+}
+.topNavmenu{
+    border: solid 5px;
+    background-color: rgb(207, 198, 207);
+    color: rgb(90, 11, 136);
+    text-align: center;
+    overflow: hidden;
+    letter-spacing: .15em;
+    word-spacing: 1em;
+} 
+.topNavmenu a {
+    float: center;
+    font-family:Arial, Helvitica, sans-serif;
+    color: rgb(51, 5, 51);
+    background-color: rgb(185, 170, 185);
+    text-align: right;
+    padding: 14px 16px;
+    font-size: 1em;
+}
+.topNavmenu a:hover {
+    background-color: #ddd;
+    color: rgb(126, 12, 120);
+}
+.container{
+    background-color: transparent;
+    padding: 20px;
+    margin: 25px;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:2em;
+    color: rgb(92, 92, 92);
+}
+h2 {
+    color: rgb(116, 14, 163);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:1.3em;
+  }
+h3 {
+   color:rgb(51, 5, 51); 
+}
+
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(85, 81, 81);
+}
+img.first-hat{
+    float: right;
+    height: 100px;
+    width: 100px; 
+    padding:0px 50px 0px 30px;
+}
+img.cowl{
+    width: 100px;
+    height: 150px;
+    padding: 10px 5px 5px 10px;
+}
+img.second-hat{
+    float:left;
+    height: 80px;
+    width: 80px;
+    padding: 0px 120px 0px 50px; 
+}
+.topleft {
+    margin: 10px;
+    width: 630px;
+    height: 650px;
+    border: solid 3px;
+    background-color: rgb(206, 170, 240);
+    /*float: center;*/
+    padding: 20px;
+    font-size: 1.3em;
+}
+.bottomleft {
+    margin: 10px;
+    width: 630px;
+    height: 530px;
+    border: solid 3px;
+    background-color: rgb(206, 170, 240);
+    float: center;
+    padding: 20px;
+    font-size: 1.3em;
+}
+img.Green-ball{
+    width: 50px;
+}
+.bottomleft a{
+    float: center;
+    font-family:Arial, Helvitica, sans-serif;
+    color: rgb(51, 5, 51);
+    background-color: rgb(185, 170, 185);
+    text-align: right;
+    padding: 14px 16px;
+    font-size: 1em;
+}
+.bottomleft a:hover {
+    background-color: #ddd;
+    color: rgb(126, 12, 120);
+}
+.leftside{
+    float: left;
+    padding: 0px 0px 0px 65px;
+}
+.topright {
+    margin: 10px;
+    width: 600px;
+    height: 400px;
+    border-left: 625px;
+    border: solid 3px;
+    background-color: rgb(206, 170, 240);
+    padding: 20px;
+    position: relative;
+}
+.topright a {
+    float: center;
+    font-family:Arial, Helvitica, sans-serif;
+    color: rgb(51, 5, 51);
+    background-color: rgb(185, 170, 185);
+    text-align: right;
+    padding: 14px 16px;
+    font-size: 1.3em; 
+}
+.topright a:hover {
+    background-color: #ddd;
+    color: rgb(126, 12, 120);
+}
+.bottomright {  
+    margin: 10px;
+    width: 600px;
+    height: 780px;
+    border: solid 3px;
+    background-color: rgb(206, 170, 240);
+    padding: 20px;
+    position: relative;
+    font-size: 1.3em; 
+}
+.bottomright a{
+    float: left;
+    position: bottom;
+    font-family:Arial, Helvitica, sans-serif;
+    color: rgb(51, 5, 51);
+    background-color: rgb(185, 170, 185);
+    text-align: right;
+    padding: 14px 16px;
+    font-size: 1em; 
+}
+.bottomright a:hover {
+    background-color: #ddd;
+    color: rgb(126, 12, 120);
+}
+.rightside{
+    float: right;
+    padding:0px 65px 0px 0px;
+    /*width: 50%;*/
+}
+img.double{
+    float: left;
+    margin: 5px 50px 5px 60px;
+    widows: 100px;
+    height: 75px;
+}
+img.straight{
+    margin: 25px 5px 40px 5px;
+    width: 150px;
+    height: 40px;
+}
+img.circular{
+    float: right;
+    height:100px;
+    width: 80px;
+    margin:5px 100px 5px 0px;
+}
+body {
+    background-color: rgb(219, 219, 233);
+    /*width: 2500px;*/
+    /*position: relative;  */
+}
+  .foot li {
+      display: inline-block;
+      text-align: left;
+      margin: 0;
+  }
+  #foot{
+      bottom: 0px;
+  }
+  .foot {
+    position: relative;
+    border: solid 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    margin-top: 5px;
+    background-color: rgb(207, 198, 207);
+    color: rgb(90, 11, 136);
+    text-align: center;
+    overflow: hidden;
+    letter-spacing: .15em;
+    padding: 10px;
+    word-spacing: 1.5em;
+  }
